@@ -161,3 +161,22 @@ main {
 .attribution a:hover::after {
     transform: scalex(1);
 }
+
+::-webkit-scrollbar {
+    width: 0.4em;
+}
+::-webkit-scrollbar-track {
+    /* background: var(--desaturated-blue); */
+    border-radius: 100vw;
+    margin-block: 0.1em;
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--desaturated-blue);
+    /* border: 0.25em solid var(--desaturated-blue); */
+    border-radius: 100vw;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: var(--dark-blue);
+}

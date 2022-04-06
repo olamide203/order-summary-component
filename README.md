@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://olamide203.github.io/order-summary-component/)
+-   Solution URL: [order-summary-component](https://www.frontendmentor.io/solutions/summary-component-using-css-grid-rkVpHQim9)
+-   Live Site URL: [order-summary-component](https://olamide203.github.io/order-summary-component/)
 
 ## My process
 
